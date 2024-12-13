@@ -6,8 +6,8 @@ Our project attempts to implement VGA output to display a 2-D platformer game. T
 
 ![initial_display](https://github.com/user-attachments/assets/973f6c08-d102-4927-bad3-113b36c96347)
 
-visit the wiki tab to learn more about our project
-[Sites Using React](https://github.com/barkerb4/ECE287_Final_Project/wiki)
+visit the 
+[Wiki](https://github.com/barkerb4/ECE287_Final_Project/wiki) tab to learn more about our projec
 
 
 
