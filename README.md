@@ -12,6 +12,9 @@ We used a MATLAB image to .mif converter file to convert our initial game image 
 
 ![Image of our first write to screen](image1_github.jpg)  
 
+#### gameDesign Module  
+Our gameDesign module was the next module we implemented. We coupled this module with an instance of the VGA Driver module in order to attempt to move the character in the bottom left corner. We implemented the use of KEY[1] as move right, KEY[2] as move left and KEY[3] as jump. 
+
 We ran into issues updating our character position to make it move right, left and up. When we attempted to do this we ran into various different errors. Below is what we called a "snowflake error" 
 
 
