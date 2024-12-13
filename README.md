@@ -9,7 +9,7 @@ Initially, we wanted to recreate the game 2D platformer Donkey Kong. In a 2D pla
 Below is is chronogically listed the order that we created various parts of our projects. Refrences are cited where applicable.  
 ### VGA Frame driver
 We used a MATLAB image to .mif converter file to convert our initial game image to a .mif file. We then use the VGA Frame driver borrowed from Dr. Peter Jamieson's VGA examples in the files section on Canvas to display our image to the screen. This worked very well and we were able write the file to the screen accurately.  
-![Image of our first write to screen](C:\Users\andre\Downloads\image1_github.jpg)
+![Image of our first write to screen]("C:\Users\andre\Downloads\image1_github.jpg")
 We ran into issues updating our character position to make it move right, left and up. When we attempted to do this we ran into various different errors. 
 
 
