@@ -16,6 +16,7 @@ We used a MATLAB image to .mif converter file to convert our initial game image 
 Our gameDesign module was the next module we implemented. We coupled this module with an instance of the VGA Driver module in order to attempt to move the character in the bottom left corner. We implemented the use of KEY[1] as move right, KEY[2] as move left and KEY[3] as jump. 
 
 We ran into issues updating our character position to make it move right, left and up. When we pressed a key value we ran into various different errors. Below is what we called a "snowflake error."  
+
 ![Snowflake error image](image_2_snowflake_error.jpeg)  
 We spent rougly 10 hours attempting to debug this error. We thought this could be because the write signal was remaining on. We turned this signal off throughout the entire module. This did not resolve the error. 
 
